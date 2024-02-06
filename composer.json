@@ -1,0 +1,16 @@
+{
+    "name": "stranica/anton",
+    "description": "Making HTML website server with ReactPHP.",
+    "autoload": {
+        "psr-4": {
+            "Stranica\\Anton\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "antonprusina",
+            "email": "antonprusina@gmail.com"
+        }
+    ],
+    "require": {}
+}
