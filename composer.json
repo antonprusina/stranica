@@ -12,5 +12,7 @@
             "email": "antonprusina@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "react/http": "^1.9"
+    }
 }
